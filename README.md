@@ -1,7 +1,5 @@
 <div align="center">
 
-# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/N0R4Nd0m/">N0R4Nd0m</a><a href="https://github.com/N0R4Nd0m/zapret">/zapret</a>
-
 Альтернатива https://github.com/bol-van/zapret-win-bundle  
 Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
 </div>
