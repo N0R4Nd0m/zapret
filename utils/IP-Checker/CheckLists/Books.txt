@@ -1,0 +1,11 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главные страницы и их необходимые домены
+flibusta.is/
+https://booktracker.org
+#https://z-library.sk/
+#https://libgen.bz
+#https://z-lib.fm
+#https://annas-archive.org/
+#https://annas-archive.li/
+#https://annas-archive.se
+#https://welib.org

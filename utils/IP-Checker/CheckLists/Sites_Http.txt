@@ -1,0 +1,7 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главные страницы и их необходимые домены
+#В файле BlackLists\MySites.txt д.б. те же домены
+http://media5.cdnbase.com/media/photologue/photos/6143813.jpg
+http://fast-torrent.ru/
+#http://www.truebrandsnacks.com
+#http://ftp.cwer.su/

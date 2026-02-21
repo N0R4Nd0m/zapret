@@ -1,0 +1,23 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главная страница
+https://www.instagram.com
+#Необходимые домены, без них нормально не грузится
+gateway.instagram.com
+graph.instagram.com
+edge-chat.instagram.com
+static.cdninstagram.com
+scontent.cdninstagram.com
+#static.xx.fbcdn.net
+#instagram.fala2-1.fna.fbcdn.net
+#instagram.fotp3-1.fna.fbcdn.net
+#scontent-hel3-1.cdninstagram.com
+#scontent-iad3-1.cdninstagram.com
+#scontent-ams2-1.cdninstagram.com
+#scontent-ams4-1.cdninstagram.com
+#scontent-arn2-1.cdninstagram.com
+#scontent-atl3-2.cdninstagram.com
+#scontent-cph2-1.cdninstagram.com
+#scontent-fra5-2.cdninstagram.com
+#scontent-iad3-2.cdninstagram.com
+#scontent-iev1-1.cdninstagram.com
+#scontent-lhr6-1.cdninstagram.com

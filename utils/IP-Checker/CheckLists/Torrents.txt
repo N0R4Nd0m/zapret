@@ -1,0 +1,21 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главные страницы и их необходимые домены
+#https://rutracker.org/forum/viewtopic.php?t=211216
+#https://static.rutracker.cc/logo/logo-3.svg
+#https://kinozal.tv/pic/jquery-3.6.3.min.js?v=1.1
+#https://nnmclub.to
+#https://nnmstatic.win/manifest/apple-touch-icon.png
+#https://rutor.is
+#cdnbunny.org
+#https://thepiratebay.org
+#torrindex.net
+https://rezka.ag
+https://static.hdrezka.ac/i/collections/collections_137_2018.jpg
+#statichdrezka.ac
+#stream.voidboost.cc
+#https://www.torrentdownloads.pro
+#https://www.1377x.to/
+#https://torrentquest.com
+#https://gtorrent.cc
+#https://utorrentmusic.ru
+#https://muz-line.com

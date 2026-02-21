@@ -1,0 +1,7 @@
+	IP						Провайдер				Страна				Тип
+76.76.2.22					ControlD				Canada				Global
+74.82.42.42 				Hurricane Electric		United States		Global	
+61.8.0.113					Pacific Internet		Australia			Regional
+164.124.101.2				LG Dacom				South Korea			Regional
+209.150.154.1				CMPak Limited			Pakistan			Regional
+200.248.178.54				Claro S.A				Brazil				Regional

@@ -1,0 +1,12 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главная страница
+https://x.com/YouTube
+#Необходимые домены, без них нормально не грузится
+api.x.com
+video.twimg.com
+abs.twimg.com
+https://pbs.twimg.com/profile_banners/10228272/1764705659/600x200
+#abs-0.twimg.com
+#twitter.com
+#api.twitter.com
+#t.co

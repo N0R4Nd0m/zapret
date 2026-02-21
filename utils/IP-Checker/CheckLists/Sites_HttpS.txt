@@ -1,0 +1,13 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главные страницы и их необходимые домены
+#В файле BlackLists\MySites.txt д.б. те же домены
+https://windscribe.com
+#https://mediaarea.net/
+#https://www.polygon.com/
+#https://animejoy.ru/tv-serialy/engine/ajax/ajax.php?do=get_playlists&news_id=5418
+#https://www.dnsleaktest.com/ana/matomo.js
+#https://i.kym-cdn.com/editorials/icons/mobile/000/015/077/FINAL1.jpg
+#https://www.linkedin.com
+#static.licdn.com
+#https://www.dailymotion.com
+#https://ntc.party

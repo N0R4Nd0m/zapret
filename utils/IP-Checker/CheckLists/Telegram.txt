@@ -1,0 +1,15 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главные страницы и их необходимые домены
+telegram.org
+telegram.com
+telegram.me
+t.me
+tdesktop.com
+telegra.ph
+tg.dev
+telesco.pe
+nicegram.app
+telegramdownload.com
+telegram.dog
+telegram.tips
+#telegramusercontent.com

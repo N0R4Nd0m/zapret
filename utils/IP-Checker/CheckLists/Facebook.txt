@@ -1,0 +1,21 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главная страница
+https://www.facebook.com
+#Необходимые домены, без них нормально не грузится
+gateway.facebook.com
+edge-chat.facebook.com
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+www.fbsbx.com
+#graph.facebook.com
+#fb.com
+#connect.facebook.net
+#star-mini.c10r.facebook.com
+#star-mini.fallback.c10r.facebook.com
+#web-chat-e2ee.facebook.com
+#scontent-iad3-1.xx.fbcdn.net
+#scontent-hel3-1.xx.fbcdn.net
+#scontent-iad3-2.xx.fbcdn.net
+#scontent-arn2-1.xx.fbcdn.net
+#video-iad3-2.xx.fbcdn.net
+#video-iad3-1.xx.fbcdn.net

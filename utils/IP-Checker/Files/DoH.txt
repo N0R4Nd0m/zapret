@@ -1,0 +1,14 @@
+		Адрес										Страна
+https://wikimedia-dns.org/dns-query					United States/France
+https://atl01.dnscry.pt/dns-query					United States
+https://freedns.controld.com/uncensored				Canada/Germany
+https://dns.aa.net.uk/dns-query						Great Britain
+https://dns.nextdns.io								Germany
+https://dns.artikel10.org/dns-query 				Germany
+https://doh.ffmuc.net/dns-query						Germany
+https://resolver1.absolight.net/dns-query 			France
+https://anycast.uncensoreddns.org/dns-query			Denmark
+https://eu1.dns.lavate.ch/dns-query					Finland
+https://ath01.dnscry.pt/dns-query					Greece
+https://dns.njal.la/dns-query						Sweden
+https://cph01.dnscry.pt/dns-query					Norway

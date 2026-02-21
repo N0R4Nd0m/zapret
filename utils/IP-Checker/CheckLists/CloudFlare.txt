@@ -1,0 +1,22 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+https://connectivity.cloudflareclient.com
+https://api.cloudflareclient.com
+engage.cloudflareclient.com
+zero-trust-client.cloudflareclient.com
+cloudflareclient.com
+cloudflareportal.com
+cloudflareok.com
+cloudflarecp.com
+a.nel.cloudflare.com
+challenges.cloudflare.com
+cloudflareinsights.com
+cloudflareaccess.com
+cloudflare-ech.com
+one.one.one.one
+cloudflare-dns.com
+#time.cloudflare.com
+#static.cloudflareinsights.com
+#www.msftconnecttest.com
+#captive.apple.com
+#connectivitycheck.gstatic.com
+#www.cloudflare.com

@@ -1,0 +1,32 @@
+#Чтобы расскомментировать строку, уберите # в начале строки
+#Главная страница
+https://www.youtube.com
+#Необходимые домены, без них нормально не грузится
+accounts.youtube.com
+suggestqueries-clients6.youtube.com
+i.ytimg.com
+yt3.ggpht.com
+yt4.ggpht.com
+yt3.googleusercontent.com
+jnn-pa.googleapis.com
+#Домены для сервиса Youtube Music, расскомментировать, если нужны
+music.youtube.com
+lh3.googleusercontent.com
+#Домены для встроенного плеера (на др. сайтах), расскомментировать, если нужны
+#youtube-nocookie.com
+#youtubeembeddedplayer.googleapis.com
+#Расскомментировать(убрать #), если сам гугл недоступен
+#www.google.com
+#www.google.ru
+#Домены для загрузки видео, расскомментировать, если нужны
+upload.youtube.com
+#a.upload.youtube.com
+#b.upload.youtube.com
+#Доп. домены, расскомментировать, если нужны
+#play.google.com
+#nhacmp3youtube.com
+#youtu.be
+#yt.be
+#youtubei.googleapis.com
+#youtube.googleapis.com
+#safebrowsing.googleapis.com
